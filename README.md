@@ -6,6 +6,6 @@
 - **Tall wardrobe** (recommended): 250 × 58 × 236 cm, floor to ceiling, handleless and wall-coloured. About the same storage (98%) and 50 cm more clear wall by the door.
 - **Most open**: 200 × 58 × 236 cm Pax plus a lift-up storage bed (97% of the storage), with 135 cm of clear wall by the door.
 
-Camera presets: 3D, Plan, From door, From bed. The "Open the wardrobe doors" toggle shows the walkway left at the foot of the bed.
+The panel on the right has the layouts, camera views (Overview, From the window, Floor plan, From the door, From the bed, Wardrobe), whole-room colour schemes and a "Mix your own" picker for the wardrobe, the wall behind the bed, bedding, wood and floor. Dark outlines on every piece can be switched off. The "Open the wardrobe doors" toggle shows the walkway left at the foot of the bed.
 
 The model assumes a 250 cm ceiling. Check yours before buying 236 cm Pax frames: you need roughly 240 cm to stand them up.
